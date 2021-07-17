@@ -1,0 +1,474 @@
+D:\Project2021\Project2021\Start\bin\Debug\Start.exe.config
+D:\Project2021\Project2021\Start\bin\Debug\Start.exe
+D:\Project2021\Project2021\Start\bin\Debug\Start.pdb
+D:\Project2021\Project2021\Start\bin\Debug\Guna.UI.dll
+D:\Project2021\Project2021\Start\bin\Debug\Guna.UI2.dll
+D:\Project2021\Project2021\Start\bin\Debug\Interop.AcroPDFLib.dll
+D:\Project2021\Project2021\Start\bin\Debug\Interop.WMPLib.dll
+D:\Project2021\Project2021\Start\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Project2021\Project2021\Start\bin\Debug\AxInterop.WMPLib.dll
+D:\Project2021\Project2021\Start\obj\Debug\Interop.AcroPDFLib.dll
+D:\Project2021\Project2021\Start\obj\Debug\Interop.WMPLib.dll
+D:\Project2021\Project2021\Start\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Project2021\Project2021\Start\obj\Debug\AxInterop.WMPLib.dll
+D:\Project2021\Project2021\Start\obj\Debug\Project2021.csproj.ResolveComReference.cache
+D:\Project2021\Project2021\Start\obj\Debug\Start.addEx.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.binding.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.Calculatrice.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.jeux_de_Calcule.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.choixMultiple.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.cours_de_decroi_croi.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.Jeux_de_comparaison.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.cours_de_complement.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.Cours.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.cours_de_Conjugaison.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.jeux_de_heure.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.Anatomy.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.cours_de_heure.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.Dictée.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.dictee1.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.cours_de_ecriture.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.jeux_de_ecriture.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.Apprentissage_1_recone_De_1_sons.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.exSupp.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.jeux_Flappy_Bird.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.jeux_de_decroi_croi.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.Coloriage.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.Coloriage2.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.jeux_de_formes_geo.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.cours_de_fraction.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.jeux_de_Complement.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.cours_de_grammaire.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.Jeux.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.cours_de_moitie_double.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.cours_de_formes_geo.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.jeux_de_fraction.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.Introduction.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.MatiereStart.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.cours_de_multip_div.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.Page_entrée.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.MultiDivGame.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.cours_de_nombres.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.NumbersGame.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.NumbersUserControl.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.homlvl2.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.cours_Orthographe.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.Périmetre.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.phraseoEx.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.Planetes.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.jeux_de_Priorité.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.cours_Prononciation.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.Properties.Resources.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.page_Registration.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.cours_Resumé_de_nombres.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.ScienceStart.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.jeux_de_Suites_de_nombres.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.encadrerEntourer.resources
+D:\Project2021\Project2021\Start\obj\Debug\coloring.UserControl1.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.jeux_verbes.resources
+D:\Project2021\Project2021\Start\obj\Debug\Project2021.csproj.GenerateResource.cache
+D:\Project2021\Project2021\Start\obj\Debug\Project2021.csproj.CoreCompileInputs.cache
+D:\Project2021\Project2021\Start\obj\Debug\Project2021.csproj.CopyComplete
+D:\Project2021\Project2021\Start\obj\Debug\Start.exe
+D:\Project2021\Project2021\Start\obj\Debug\Start.pdb
+D:\Project2021\Project2021\Start\obj\Debug\Start.formesGame2.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.Message.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.TotaleMessage.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.intro_video.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.MoitieGame.resources
+D:\Project2021\Project2021\Start\obj\Debug\Start.livingGame.resources
+D:\Project2021\Project2021\Start\obj\Debug\Project2021.csprojAssemblyReference.cache
+D:\ibrahim\Project2021\Project2021\Start\bin\Debug\Start.exe.config
+D:\ibrahim\Project2021\Project2021\Start\bin\Debug\Start.exe
+D:\ibrahim\Project2021\Project2021\Start\bin\Debug\Start.pdb
+D:\ibrahim\Project2021\Project2021\Start\bin\Debug\Interop.AcroPDFLib.dll
+D:\ibrahim\Project2021\Project2021\Start\bin\Debug\Interop.WMPLib.dll
+D:\ibrahim\Project2021\Project2021\Start\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\ibrahim\Project2021\Project2021\Start\bin\Debug\AxInterop.WMPLib.dll
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Interop.AcroPDFLib.dll
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Interop.WMPLib.dll
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\AxInterop.WMPLib.dll
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Project2021.csproj.ResolveComReference.cache
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.addEx.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.binding.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.Calculatrice.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.jeux_de_Calcule.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.choixMultiple.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.cours_de_decroi_croi.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.Jeux_de_comparaison.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.cours_de_complement.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.Cours.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.cours_de_Conjugaison.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.jeux_de_heure.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.Anatomy.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.cours_de_heure.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.Dictée.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.dictee1.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.cours_de_ecriture.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.jeux_de_ecriture.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.Apprentissage_1_recone_De_1_sons.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.exSupp.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.jeux_Flappy_Bird.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.jeux_de_decroi_croi.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.Coloriage.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.Coloriage2.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.livingGame.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.MoitieGame.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.intro_video.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.jeux_de_formes_geo.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.cours_de_fraction.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.jeux_de_Complement.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.cours_de_grammaire.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.Jeux.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.Message.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.cours_de_moitie_double.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.cours_de_formes_geo.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.jeux_de_fraction.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.Introduction.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.MatiereStart.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.cours_de_multip_div.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.Page_entrée.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.MultiDivGame.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.formesGame2.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.cours_de_nombres.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.NumbersGame.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.NumbersUserControl.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.homlvl2.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.cours_Orthographe.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.Périmetre.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.phraseoEx.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.Planetes.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.jeux_de_Priorité.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.cours_Prononciation.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.Properties.Resources.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.page_Registration.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.cours_Resumé_de_nombres.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.ScienceStart.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.jeux_de_Suites_de_nombres.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.encadrerEntourer.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.TotaleMessage.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\coloring.UserControl1.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.jeux_verbes.resources
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Project2021.csproj.GenerateResource.cache
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Project2021.csproj.CoreCompileInputs.cache
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Project2021.csproj.CopyComplete
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.exe
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.pdb
+D:\ibrahim\Project2021\Project2021\Start\obj\Debug\Start.TicTacToe.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csprojAssemblyReference.cache
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Interop.WMPLib.dll
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.ResolveComReference.cache
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.addEx.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.binding.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Calculatrice.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_Calcule.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.choixMultiple.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_decroi_croi.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Jeux_de_comparaison.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_complement.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Cours.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_Conjugaison.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_heure.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Anatomy.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_heure.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Dictée.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.dictee1.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_ecriture.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_ecriture.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Apprentissage_1_recone_De_1_sons.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.exSupp.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_Flappy_Bird.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_decroi_croi.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Coloriage.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Coloriage2.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.livingGame.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.MoitieGame.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.intro_video.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_formes_geo.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_fraction.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_Complement.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_grammaire.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Jeux.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Message.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_moitie_double.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_formes_geo.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_fraction.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Introduction.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.MatiereStart.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_multip_div.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Page_entrée.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.MultiDivGame.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.formesGame2.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_nombres.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.NumbersGame.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.NumbersUserControl.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.homlvl2.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_Orthographe.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Périmetre.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.phraseoEx.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Planetes.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_Priorité.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_Prononciation.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Properties.Resources.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.page_Registration.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_Resumé_de_nombres.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.ScienceStart.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_Suites_de_nombres.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.encadrerEntourer.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.TicTacToe.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.TotaleMessage.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\coloring.UserControl1.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_verbes.resources
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.GenerateResource.cache
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.CoreCompileInputs.cache
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.exe
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.pdb
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Start.exe.config
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Start.exe
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Start.pdb
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Interop.WMPLib.dll
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lilyh\Downloads\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.CopyComplete
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Start.exe.config
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Start.exe
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Start.pdb
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Interop.WMPLib.dll
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.AssemblyReference.cache
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Interop.WMPLib.dll
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.ResolveComReference.cache
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.addEx.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.binding.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Calculatrice.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_Calcule.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.choixMultiple.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_decroi_croi.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Jeux_de_comparaison.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_complement.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Cours.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_Conjugaison.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_heure.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Anatomy.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_heure.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Dictée.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.dictee1.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_ecriture.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_ecriture.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Apprentissage_1_recone_De_1_sons.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.exSupp.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_Flappy_Bird.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_decroi_croi.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Coloriage.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Coloriage2.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.livingGame.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.MoitieGame.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.intro_video.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_formes_geo.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_fraction.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_Complement.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_grammaire.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Jeux.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Message.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_moitie_double.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_formes_geo.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_fraction.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Introduction.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.MatiereStart.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_multip_div.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Page_entrée.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.MultiDivGame.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.formesGame2.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_nombres.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.NumbersGame.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.NumbersUserControl.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.homlvl2.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_Orthographe.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Périmetre.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.phraseoEx.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Planetes.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_Priorité.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_Prononciation.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Properties.Resources.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.page_Registration.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_Resumé_de_nombres.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.ScienceStart.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_Suites_de_nombres.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.encadrerEntourer.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.TicTacToe.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.TotaleMessage.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\coloring.UserControl1.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_verbes.resources
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.GenerateResource.cache
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.CoreCompileInputs.cache
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.CopyComplete
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.exe
+C:\Users\pcd\Downloads\Project2021_CSharp_UNI-main (3)\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.pdb
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Start.exe.config
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Start.exe
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Start.pdb
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Interop.WMPLib.dll
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.AssemblyReference.cache
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Interop.WMPLib.dll
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.ResolveComReference.cache
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.addEx.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.binding.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Calculatrice.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_Calcule.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.choixMultiple.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_decroi_croi.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Jeux_de_comparaison.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_complement.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Cours.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_Conjugaison.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_heure.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Anatomy.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_heure.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Dictée.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.dictee1.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_ecriture.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_ecriture.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Apprentissage_1_recone_De_1_sons.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.exSupp.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_Flappy_Bird.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_decroi_croi.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Coloriage.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Coloriage2.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.livingGame.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.MoitieGame.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.intro_video.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_formes_geo.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_fraction.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_Complement.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_grammaire.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Jeux.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Message.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_moitie_double.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_formes_geo.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_fraction.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Introduction.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.MatiereStart.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_multip_div.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Page_entrée.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.MultiDivGame.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.formesGame2.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_nombres.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.NumbersGame.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.NumbersUserControl.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.homlvl2.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_Orthographe.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Périmetre.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.phraseoEx.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Planetes.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_Priorité.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_Prononciation.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Properties.Resources.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.page_Registration.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_Resumé_de_nombres.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.ScienceStart.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_Suites_de_nombres.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.encadrerEntourer.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.TicTacToe.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.TotaleMessage.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\coloring.UserControl1.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_verbes.resources
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.GenerateResource.cache
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.CoreCompileInputs.cache
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.CopyComplete
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.exe
+C:\Users\pcd\Desktop\ibrahim\Uni\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.pdb
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Start.exe.config
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Start.exe
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Start.pdb
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\Interop.WMPLib.dll
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.AssemblyReference.cache
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Interop.WMPLib.dll
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.ResolveComReference.cache
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.addEx.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.binding.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Calculatrice.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_Calcule.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.choixMultiple.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_decroi_croi.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Jeux_de_comparaison.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_complement.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Cours.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_Conjugaison.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_heure.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Anatomy.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_heure.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Dictée.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.dictee1.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_ecriture.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_ecriture.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Apprentissage_1_recone_De_1_sons.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.exSupp.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_Flappy_Bird.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_decroi_croi.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Coloriage.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Coloriage2.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.livingGame.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.MoitieGame.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.intro_video.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_formes_geo.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_fraction.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_Complement.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_grammaire.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Jeux.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Message.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_moitie_double.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_formes_geo.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_fraction.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Introduction.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.MatiereStart.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_multip_div.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Page_entrée.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.MultiDivGame.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.formesGame2.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_de_nombres.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.NumbersGame.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.NumbersUserControl.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.homlvl2.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_Orthographe.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Périmetre.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.phraseoEx.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Planetes.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_Priorité.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_Prononciation.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.Properties.Resources.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.page_Registration.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.cours_Resumé_de_nombres.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.ScienceStart.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_de_Suites_de_nombres.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.encadrerEntourer.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.TicTacToe.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.TotaleMessage.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\coloring.UserControl1.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.jeux_verbes.resources
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.GenerateResource.cache
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.CoreCompileInputs.cache
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Project2021.csproj.CopyComplete
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.exe
+C:\Users\pcd\Desktop\Project2021_CSharp_UNI\Project2021_CSharp_UNI\Project2021_CSharp_UNI-main\Project2021_CSharp_UNI-main\obj\Debug\Start.pdb

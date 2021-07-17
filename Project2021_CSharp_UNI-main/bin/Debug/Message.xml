@@ -1,0 +1,135 @@
+<?xml version="1.0" standalone="yes"?>
+<Messages>
+  <Message>
+    <UserNameDestinateur />
+    <UserNameRecipteur />
+    <TextMessage />
+    <LireOuNon />
+  </Message>
+  <Message>
+    <UserNameDestinateur>a</UserNameDestinateur>
+    <UserNameRecipteur>dc_bassam</UserNameRecipteur>
+    <TextMessage>hi   12/02/2019 10:14:56</TextMessage>
+    <LireOuNon>true</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>uu</UserNameDestinateur>
+    <UserNameRecipteur>cln</UserNameRecipteur>
+    <TextMessage>hii   28-Feb-21 10:22:37 PM</TextMessage>
+    <LireOuNon>false</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>jj</UserNameDestinateur>
+    <UserNameRecipteur>cln</UserNameRecipteur>
+    <TextMessage>hello   28-Feb-21 10:27:04 PM</TextMessage>
+    <LireOuNon>false</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>tt</UserNameDestinateur>
+    <UserNameRecipteur>cln</UserNameRecipteur>
+    <TextMessage>hello   28-Feb-21 10:29:28 PM</TextMessage>
+    <LireOuNon>false</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>hh</UserNameDestinateur>
+    <UserNameRecipteur>cln</UserNameRecipteur>
+    <TextMessage>fff   28-Feb-21 10:31:13 PM</TextMessage>
+    <LireOuNon>false</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>ggg</UserNameDestinateur>
+    <UserNameRecipteur>pp</UserNameRecipteur>
+    <TextMessage>hi bro   28-Feb-21 10:35:56 PM</TextMessage>
+    <LireOuNon>false</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>hh</UserNameDestinateur>
+    <UserNameRecipteur>ggg</UserNameRecipteur>
+    <TextMessage>kmn enta hi   28-Feb-21 10:38:43 PM</TextMessage>
+    <LireOuNon>true</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>kk</UserNameDestinateur>
+    <UserNameRecipteur>ggg</UserNameRecipteur>
+    <TextMessage>bjlhvr   28-Feb-21 10:48:17 PM</TextMessage>
+    <LireOuNon>true</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>ee</UserNameDestinateur>
+    <UserNameRecipteur>gg</UserNameRecipteur>
+    <TextMessage>hi gg   28-Feb-21 10:57:06 PM</TextMessage>
+    <LireOuNon>true</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>Bassam</UserNameDestinateur>
+    <UserNameRecipteur>qqq</UserNameRecipteur>
+    <TextMessage>akjbsfjagfjasfasfa   3/29/2021 10:44:47 PM</TextMessage>
+    <LireOuNon>true</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>ww</UserNameDestinateur>
+    <UserNameRecipteur>d</UserNameRecipteur>
+    <TextMessage>gg   15/07/2021 10:59:13</TextMessage>
+    <LireOuNon>false</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>ww</UserNameDestinateur>
+    <UserNameRecipteur>;</UserNameRecipteur>
+    <TextMessage>hi   15/07/2021 10:59:13</TextMessage>
+    <LireOuNon>false</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>ww</UserNameDestinateur>
+    <UserNameRecipteur>;</UserNameRecipteur>
+    <TextMessage>uikm   15/07/2021 10:59:13</TextMessage>
+    <LireOuNon>false</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>hu</UserNameDestinateur>
+    <UserNameRecipteur>ww</UserNameRecipteur>
+    <TextMessage>hi   15/07/2021 11:00:45</TextMessage>
+    <LireOuNon>false</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>oo</UserNameDestinateur>
+    <UserNameRecipteur>gg</UserNameRecipteur>
+    <TextMessage>hi   15/07/2021 11:06:59</TextMessage>
+    <LireOuNon>true</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>rr</UserNameDestinateur>
+    <UserNameRecipteur>oo</UserNameRecipteur>
+    <TextMessage>okkk   15/07/2021 11:10:28</TextMessage>
+    <LireOuNon>true</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>oo</UserNameDestinateur>
+    <UserNameRecipteur>rr</UserNameRecipteur>
+    <TextMessage>okayen   15/07/2021 11:12:16</TextMessage>
+    <LireOuNon>true</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>simone</UserNameDestinateur>
+    <UserNameRecipteur>oo</UserNameRecipteur>
+    <TextMessage>hiiii   7/15/2021 4:00:38 PM</TextMessage>
+    <LireOuNon>true</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>rr</UserNameDestinateur>
+    <UserNameRecipteur>ibrahim</UserNameRecipteur>
+    <TextMessage>hiii   7/17/2021 1:40:33 PM</TextMessage>
+    <LireOuNon>false</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>hadi</UserNameDestinateur>
+    <UserNameRecipteur>ibra</UserNameRecipteur>
+    <TextMessage>hi   7/17/2021 1:46:18 PM</TextMessage>
+    <LireOuNon>true</LireOuNon>
+  </Message>
+  <Message>
+    <UserNameDestinateur>hadi</UserNameDestinateur>
+    <UserNameRecipteur>ibra</UserNameRecipteur>
+    <TextMessage>hii dr   7/17/2021 1:51:07 PM</TextMessage>
+    <LireOuNon>true</LireOuNon>
+  </Message>
+</Messages>
